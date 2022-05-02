@@ -12,6 +12,10 @@
 Inventory management software for pharmacies, utilizing the FDA open drug API. Pharmacies can monitor the current inventory to help make decisions on placing additional orders to minimize over / under stocking and ultimately
 lower costs.
 
+## Sections I, Justin, worked on:
+- CRUD functionality for all the inventory management section, including, but not limited to conditional rendering, forms, and axios requests on frontend, and routes on the backend.
+
+
 ## Installation Instructions
 #### Client-side
 - Fork and clone this repository.
