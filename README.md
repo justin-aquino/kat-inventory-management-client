@@ -2,7 +2,7 @@
 
 ### Deployed Link: 
 [KAT Inventory Management Systems](https://elegant-gumption-829ed0.netlify.app/login)
-Credentials: 
+ 
 - username: admin
 - password: admin
 
